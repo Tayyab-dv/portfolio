@@ -1,0 +1,67 @@
+Senior Full-Stack Software Engineer
+
+Company: Innovation Tech Labs
+Location: San Francisco, CA (Hybrid)
+Salary: $150,000 - $200,000
+
+About the Role:
+We are seeking a highly skilled Senior Full-Stack Software Engineer to join our growing engineering team. You will be responsible for designing, developing, and maintaining scalable web applications that serve millions of users.
+
+Required Qualifications:
+• 5+ years of professional software development experience
+• Strong proficiency in React.js and Node.js
+• Experience with TypeScript
+• Proficiency in SQL databases (PostgreSQL preferred)
+• Experience with RESTful API design and development
+• Strong understanding of software architecture patterns
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Proficiency with Git and CI/CD pipelines
+• Bachelor's degree in Computer Science or equivalent experience
+
+Required Skills:
+• React.js
+• Node.js
+• TypeScript
+• PostgreSQL or MySQL
+• RESTful APIs
+• AWS or similar cloud platform
+• Docker
+• Git
+• Unit testing (Jest, Mocha, or similar)
+• Agile/Scrum methodologies
+
+Preferred Qualifications:
+• Experience with microservices architecture
+• Knowledge of GraphQL
+• Experience with Redis or similar caching systems
+• Familiarity with Kubernetes
+• Open source contributions
+• Experience mentoring junior developers
+
+Responsibilities:
+• Design and implement new features for our web platform
+• Write clean, maintainable, and well-tested code
+• Participate in code reviews and provide constructive feedback
+• Collaborate with product managers and designers
+• Mentor junior team members
+• Optimize application performance and scalability
+• Contribute to architectural decisions
+• Debug and resolve production issues
+• Document technical specifications
+
+Key Performance Indicators:
+• Code quality and test coverage
+• Feature delivery velocity
+• System uptime and reliability
+• Reduction in technical debt
+• Team collaboration and knowledge sharing
+
+What We Offer:
+• Competitive salary and equity
+• Health, dental, and vision insurance
+• 401(k) matching
+• Flexible work arrangements
+• Professional development budget
+• Unlimited PTO
+
+We value diversity and are committed to creating an inclusive environment for all employees.
