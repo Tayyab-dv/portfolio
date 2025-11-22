@@ -212,8 +212,17 @@ Be blunt, direct, and factual. Do not fabricate matches. If uncertain, mark as "
             };
 
             return (
-                <div className="min-h-screen bg-white py-12 px-4">
-                    <div className="max-w-4xl mx-auto">
+                <div className="min-h-screen bg-white">
+                    {/* Navigation */}
+                    <nav className="border-b border-gray-300">
+                        <div className="max-w-4xl mx-auto px-4 py-4">
+                            <a href="index.html" className="text-black hover:text-gray-600 font-medium">
+                                ← Back to Portfolio
+                            </a>
+                        </div>
+                    </nav>
+
+                    <div className="max-w-4xl mx-auto py-12 px-4">
                         {/* Header */}
                         <h1 className="text-2xl font-bold mb-12 text-black">Resume Analysis</h1>
 
